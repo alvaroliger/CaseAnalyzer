@@ -1,0 +1,5 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+pycdlib>=1.14.0
+# pytsk3 se instala aparte con --only-binary en arrancar.bat
